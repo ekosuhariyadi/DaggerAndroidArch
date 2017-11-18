@@ -1,0 +1,1 @@
+Wrap boilerplate Dagger 2, Android Arch ViewModel into a library
